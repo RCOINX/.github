@@ -1,5 +1,3 @@
-# RCOINX
-
 ![RCOINX Logo](https://github.com/RCOINX/.github/blob/main/logo.svg)
 
 ## Introduction
