@@ -1,4 +1,4 @@
-![RCOINX Logo](https://github.com/RCOINX/.github/blob/main/logo.svg)
+<img src="https://rcoinx.com/logo-light.svg" alt="RCOINX Logo" height="120">
 
 ## Introduction
 
