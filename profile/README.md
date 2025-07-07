@@ -1,5 +1,3 @@
-<img src="https://rcoinx.com/logo-light.svg" alt="RCOINX Logo" height="120">
-
 ## Introduction
 
 Welcome to RCOINX! 
